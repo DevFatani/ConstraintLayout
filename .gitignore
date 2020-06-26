@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+*.apk
+*.ap_
+*.aab
+*.dex
+
+bin/
+gen/
+out/
+*.log
+# app/src/main/res/drawable/ic_demo.xml
+app/.project
+.project
